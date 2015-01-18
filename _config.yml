@@ -10,8 +10,5 @@ github_username:  MichaelDrogalis
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 # Build settings
-markdown: kramdown
-
-kramdown:
-  input: GFM
+markdown: redcarpet
 
