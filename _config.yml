@@ -7,9 +7,11 @@ url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: MichaelDrogalis
 github_username:  MichaelDrogalis
 
-kramdown:
-  input: GFM
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 # Build settings
 markdown: kramdown
+
+kramdown:
+  input: GFM
 
