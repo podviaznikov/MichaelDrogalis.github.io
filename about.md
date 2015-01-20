@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hi! My name is Mike! I'm a Clojure developer/enthusiast/fan. Some of my projects include: 
+- [Oynx](https://github.com/MichaelDrogalis/onyx): A masterless, cloud scale, fault tolerant, distributed computation system. See the [talk](https://www.youtube.com/watch?v=vG47Gui3hYE) I did on it at StrangeLoop!
+- [Dire](https://github.com/MichaelDrogalis/dire): Erlang-style supervisor error handling for Clojure
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I'm currently a developer at [LonoCloud](http://www.lonocloud.com/), and before that I was an independent Clojure contractor. 
